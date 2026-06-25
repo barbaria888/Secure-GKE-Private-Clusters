@@ -1,4 +1,4 @@
-# <div align="center"><img src="./images/architecture.png" height="70"> GKE Private Clusters: Master Authorized Networks & Custom Subnetworks </div>
+# <div align="center"><img src="https://github.com/barbaria888/barbaria888/blob/main/gke-icon.png.png" height="70" widht="34"> GKE Private Clusters: Master Authorized Networks & Custom Subnetworks </div>
 
 **A comprehensive implementation guide for secure Kubernetes cluster deployment with network isolation, master authorized networks, and custom subnetwork configurations.**
 
