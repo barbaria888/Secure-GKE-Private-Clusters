@@ -1,0 +1,37 @@
+# Environment files
+.env
+*.env
+.env.local
+
+# Kubernetes
+kubeconfig
+kubeconfig-*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Binary files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Terraform state
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform/
